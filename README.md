@@ -3,7 +3,8 @@
 Data and analysis code accompanying:
 
 **Disentangling cue, action, and reward co-variables within rapid neural dynamics of hypocretin/orexin neurons in behaving mice**
-Eva Bracey, Aditi Aravind, Nikola Grujic, Daria Peleg-Raibstein, Denis Burdakov
+
+Eva Bracey, Aditi Aravind, Nikola Grujic, Daria Peleg-Raibstein, Denis Burdakov <br>
 Laboratory of Neurobehavioural Dynamics, ETH Zürich
 
 Using two-photon and fiber-photometry imaging of hypocretin/orexin neurons (HONs) in mice performing a Pavlovian food-cue task, we applied a multivariate encoding model to ask what fraction of HON activity is explained by body movement, food probability/uncertainty, and food delivery, separately for the cue and outcome periods.
